@@ -5,6 +5,12 @@ Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleato
 
 ---
 
+## 📌 Demo en vivo
+
+👉 [Ver aplicación en GitHub Pages](https://adrencina.github.io/amigo-secreto/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Agregar nombres mediante un campo de texto.
