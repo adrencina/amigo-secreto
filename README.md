@@ -32,9 +32,13 @@ Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleato
 ## 📂 Estructura del proyecto
 
 amigo-secreto/
+
 │── index.html # Estructura principal
+
 │── style.css # Estilos de la aplicación
+
 │── app.js # Lógica en JavaScript
+
 └── assets/ # Imágenes e íconos
 
 ---
